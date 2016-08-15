@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.6/assets/owl.theme.default.min.css">
   <link rel="stylesheet prefetch" href="<?php echo get_template_directory_uri(); ?>/dist/css/photoswipe.css">
   <link rel="stylesheet prefetch" href="<?php echo get_template_directory_uri(); ?>/dist/css/default-skin.css">
-  <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/dist/css/style1.min.css">
+  <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/dist/css/style.min.css">
 
   <!--[if lt IE 9]>
   <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
