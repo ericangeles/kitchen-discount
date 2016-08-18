@@ -219,7 +219,7 @@ $(document).ready(function(){
     items: 1,
     dots: true,
     nav: true,
-    navText: ["<img src='/wp-content/themes/wpsite/imgs/testi-arrow-left.png' />","<img src='/wp-content/themes/wpsite/imgs/testi-arrow-right.png' />"],
+    navText: ["<img src='/wp-content/themes/kitchen-discount/imgs/testi-arrow-left.png' />","<img src='/wp-content/themes/kitchen-discount/imgs/testi-arrow-right.png' />"],
     autoplay: true,
     autoplayTimeout:5000,
     smartSpeed: 600,
@@ -256,7 +256,7 @@ $(document).ready(function(){
     loop: true,
     dots: true,
     nav: true,
-    navText: ["<img src='/wp-content/themes/wpsite/imgs/testi-arrow-left.png' />","<img src='/wp-content/themes/wpsite/imgs/testi-arrow-right.png' />"],
+    navText: ["<img src='/wp-content/themes/kitchen-discount/imgs/testi-arrow-left.png' />","<img src='/wp-content/themes/kitchen-discount/imgs/testi-arrow-right.png' />"],
     center: true,
     items: 1,
     autoplay: true,
@@ -272,27 +272,27 @@ $(document).ready(function(){
 
     $('body').removeClass('fade-out');
     $('.parallax-window-banner').parallax({
-      imageSrc: '/wp-content/themes/wpsite/imgs/banner-img.jpg',
+      imageSrc: '/wp-content/themes/kitchen-discount/imgs/banner-img.jpg',
       zIndex: 1
     });
     $('.parallax-window-banner-2').parallax({
-      imageSrc: '/wp-content/themes/wpsite/imgs/bg-level-one.jpg',
+      imageSrc: '/wp-content/themes/kitchen-discount/imgs/bg-level-one.jpg',
       zIndex: 1
     });
     $('.parallax-window-banner-2-traditional').parallax({
-      imageSrc: '/wp-content/themes/wpsite/imgs/traditional-bg.png',
+      imageSrc: '/wp-content/themes/kitchen-discount/imgs/traditional-bg.png',
       zIndex: 1
     });
     $('.parallax-schuller-systems').parallax({
-      imageSrc: '/wp-content/themes/wpsite/imgs/schuller-systems-banner.jpg',
+      imageSrc: '/wp-content/themes/kitchen-discount/imgs/schuller-systems-banner.jpg',
       zIndex: 1
     });
     $('.parallax-get-in-touch').parallax({
-      imageSrc: '/wp-content/themes/wpsite/imgs/get-in-touch-bg.jpg',
+      imageSrc: '/wp-content/themes/kitchen-discount/imgs/get-in-touch-bg.jpg',
       zIndex: 1
     });
     $('.parallax-window-cta').parallax({
-      imageSrc: '/wp-content/themes/wpsite/imgs/cta-bg.png',
+      imageSrc: '/wp-content/themes/kitchen-discount/imgs/cta-bg.png',
       zIndex: 1,
       speed: 0.1,
       calibrateX: true,
